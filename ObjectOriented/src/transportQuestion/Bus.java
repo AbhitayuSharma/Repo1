@@ -1,6 +1,6 @@
 package transportQuestion;
 
-public class Bus extends Transport{
+public class Bus extends Truck{
 
 	@Override
 	String type() {
